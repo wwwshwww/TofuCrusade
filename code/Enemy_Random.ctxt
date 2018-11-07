@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Enemy_Random
+comment1.params=
+comment1.target=Enemy_Random()
+comment2.params=level
+comment2.target=Enemy_Random(int)
+comment3.params=
+comment3.target=void\ shot()
+comment4.params=
+comment4.target=void\ enemAct()
+numComments=5

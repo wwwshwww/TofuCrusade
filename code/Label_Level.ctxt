@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Label_Level
+comment1.params=owner
+comment1.target=Label_Level(Tofu)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ show()
+numComments=4

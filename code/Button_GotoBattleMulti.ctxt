@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Button_GotoBattleMulti
+comment1.params=p1\ p2
+comment1.target=Button_GotoBattleMulti(Player,\ Player)
+comment2.params=
+comment2.target=void\ doOnClicked()
+numComments=3

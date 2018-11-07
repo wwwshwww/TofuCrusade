@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bar_EXP
+comment1.params=owner
+comment1.target=Bar_EXP(Player)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ setLength()
+numComments=4

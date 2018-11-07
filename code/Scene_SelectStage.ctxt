@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Scene_SelectStage
+comment1.params=
+comment1.target=Scene_SelectStage()
+comment2.params=player
+comment2.target=Scene_SelectStage(Player)
+numComments=3

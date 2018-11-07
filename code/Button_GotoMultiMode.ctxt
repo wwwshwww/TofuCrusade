@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Button_GotoMultiMode
+comment1.params=bgm
+comment1.target=Button_GotoMultiMode(greenfoot.GreenfootSound)
+comment2.params=
+comment2.target=Button_GotoMultiMode()
+comment3.params=
+comment3.target=void\ doOnClicked()
+numComments=4

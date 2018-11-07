@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Button_Evo
+comment1.params=mode\ info
+comment1.target=Button_Evo(int,\ StatusInfo)
+comment2.params=
+comment2.target=void\ doOnClicked()
+numComments=3

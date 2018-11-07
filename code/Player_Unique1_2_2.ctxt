@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Player_Unique1_2_2
+comment0.text=\r\n\r\n\ @author\ Admin\r\n
+comment1.params=
+comment1.target=Player_Unique1_2_2()
+comment2.params=p
+comment2.target=Player_Unique1_2_2(int)
+comment3.params=
+comment3.target=void\ shot()
+numComments=4

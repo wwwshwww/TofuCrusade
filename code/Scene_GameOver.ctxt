@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Scene_GameOver
+comment1.params=player
+comment1.target=Scene_GameOver(Player)
+numComments=2

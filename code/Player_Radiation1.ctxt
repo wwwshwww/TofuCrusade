@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Player_Radiation1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ \u653E\u5C04\u57FA\u672C\u578B\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Player_Radiation1()
+comment2.params=p
+comment2.target=Player_Radiation1(int)
+comment3.params=
+comment3.target=void\ shot()
+numComments=4

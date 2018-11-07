@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enemy_Stage3_1
+comment1.params=
+comment1.target=Enemy_Stage3_1()
+comment2.params=level
+comment2.target=Enemy_Stage3_1(int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkFire()
+comment5.params=
+comment5.target=void\ enemAct()
+numComments=6

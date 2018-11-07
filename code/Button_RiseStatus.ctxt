@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Button_RiseStatus
+comment1.params=owner\ mode
+comment1.target=Button_RiseStatus(Player,\ int)
+comment2.params=
+comment2.target=void\ doOnClicked()
+comment3.params=
+comment3.target=void\ setImageDefault()
+comment4.params=
+comment4.target=void\ setImageMouseOn()
+comment5.params=
+comment5.target=void\ setImageClicked()
+comment6.params=
+comment6.target=void\ checkDelete()
+numComments=7

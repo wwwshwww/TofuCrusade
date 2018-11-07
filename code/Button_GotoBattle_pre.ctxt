@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Button_GotoBattle_pre
+comment1.params=player\ stage
+comment1.target=Button_GotoBattle_pre(Player,\ int)
+comment2.params=
+comment2.target=void\ doOnClicked()
+comment3.params=
+comment3.target=void\ setImageDefault()
+comment4.params=
+comment4.target=void\ setImageMouseOn()
+comment5.params=
+comment5.target=void\ setImageClicked()
+numComments=6

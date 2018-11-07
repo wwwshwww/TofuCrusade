@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Stage_Multi
+comment1.params=p1\ p2
+comment1.target=Stage_Multi(Player,\ Player)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkWinner()
+numComments=4
